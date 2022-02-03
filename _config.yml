@@ -23,7 +23,7 @@ user:
   name: Catbook
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: Stay Hungry.Stay Foolish.Think Different.
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
