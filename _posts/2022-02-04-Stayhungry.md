@@ -1,7 +1,7 @@
 ```
 ---
-title: 学习学习
-categories: [writing]
+title: Stay hungry,stay foolish.
+categories: [life]
 comments: true
 ---
 ```
