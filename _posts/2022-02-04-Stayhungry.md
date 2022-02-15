@@ -1,6 +1,6 @@
 ---
 title: Stay hungry,stay foolish.
-categories: [life]
+categories: [writing]
 comments: true
 ---
 

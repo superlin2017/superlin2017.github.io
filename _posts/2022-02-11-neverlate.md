@@ -1,6 +1,6 @@
 ---
 title: 永远都不迟
-categories: [life]
+categories: [writing]
 comments: true
 ---
 
